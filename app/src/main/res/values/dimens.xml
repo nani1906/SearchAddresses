@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_bottom_margin">5dp</dimen>
+    <dimen name="search_bottom_margin">10dp</dimen>
+    <dimen name="search_top_margin">10dp</dimen>
+    <dimen name="search_left_margin">20dp</dimen>
+    <dimen name="search_right_margin">70dp</dimen>
+</resources>
